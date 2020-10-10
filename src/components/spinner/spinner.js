@@ -1,9 +1,10 @@
-import React from 'react'
+import React from 'react';
 
-export default function spinner() {
+ const Spinner = () => {
   return (
     <div>
       Loading...
     </div>
   )
 }
+export default Spinner;
