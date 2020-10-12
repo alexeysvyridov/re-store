@@ -1,10 +1,12 @@
 import React from 'react';
 import './error-indicator.css';
 
-export default function ErrorIndicator() {
+ const ErrorIndicator = () => {
   return (
     <div>
-        ErrorIndicator!!      
+        Error  !!!      
     </div>
   )
 }
+
+export default ErrorIndicator
